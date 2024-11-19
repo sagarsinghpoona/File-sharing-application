@@ -40,7 +40,7 @@ for backend
 ```bash
   cd server
 
-  npm install , expres
+  npm install , express
 
   npm start
  ```
